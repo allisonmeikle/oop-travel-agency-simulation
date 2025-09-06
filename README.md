@@ -1,1 +1,2 @@
-# travel-agency-assigment
+# OOP Travel Agency Simulation
+This project is a travel agency simulation built in Java for Assignment 1 in COMP 250. It involved designing and implementing multiple classes from scratch, including airports, hotels, rooms, and reservations, as well as managing customer baskets and booking logic. The project demonstrates skills in object-oriented programming, class hierarchy design, abstraction with abstract classes, inheritance, and algorithmic problem-solving. All functionality was implemented without using built-in collections, emphasizing careful class design and encapsulation.
